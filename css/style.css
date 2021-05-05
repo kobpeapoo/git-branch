@@ -2,8 +2,11 @@
     width: 1148px;
     margin: 0 auto;
     overflow: hidden;
+    margin-top: 30px;
 }
-
+body{
+    background-color: aqua;
+}
 .brand{
     float: left;
 }
